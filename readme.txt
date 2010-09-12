@@ -20,7 +20,7 @@ Added 'site_memory_the_note_it' function to display clip button.
 1. Upload `site-memory-for-wordpress` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Setting options from `Settubgs` > `Site Memory`
-1. Place `<?php if (function_exists('site_memory_the_note_it')) site_memory_the_note_it();?>` to display the clip button
+1. Place `<?php if (function_exists('site_memory_the_note_it')) site_memory_the_note_it();?>` in your templates to display the clip button
 
 == Frequently Asked Questions ==
 
