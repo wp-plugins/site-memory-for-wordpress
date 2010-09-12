@@ -1,0 +1,84 @@
+# Japanese translations for PACKAGE package.
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# U-KW-XPSM1530\makoto_kw <makoto.kw@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-11 20:59+0900\n"
+"PO-Revision-Date: 2010-09-11 21:00+0900\n"
+"Last-Translator: U-KW-XPSM1530\\makoto_kw <makoto.kw@gmail.com>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: site-memory.php:58
+msgid "Clip to Evernote"
+msgstr "Evernoteへクリップする"
+
+#: site-memory.php:115
+msgid "Button image"
+msgstr "アイコン画像"
+
+#: site-memory.php:123
+msgid "Site name"
+msgstr "サイト名"
+
+#: site-memory.php:125
+msgid ""
+"Name that will be displayed in the Site Memory window. If left blank, it "
+"will be your domain name."
+msgstr ""
+"Site Memoryウインドウで表示される名前を指定します。空の場合はサイトのドメイン名を使用します"
+
+#: site-memory.php:131
+msgid "Suggested notebook for clips"
+msgstr "追加するノートの名前"
+
+#: site-memory.php:133
+msgid ""
+"Suggest a destination notebook for your content. The notebook will be "
+"created if it does not exist."
+msgstr ""
+"あなたのコンテンツを追加するノートの名前を指定します。ノートが存在しない場合は新しくノートを作成します"
+
+#: site-memory.php:139
+msgid "Content to clip"
+msgstr "クリップするコンテンツ"
+
+#: site-memory.php:141
+msgid ""
+"The ID of the HTML element that Site Memory should clip. If left blank, a "
+"simple link to the page will be clipped."
+msgstr ""
+"Site MemoryがクリップするHTML要素のIDを指定します。空の場合は単純にリンクをクリップします"
+
+#: site-memory.php:147
+msgid "Evernote referral code"
+msgstr "Evernote紹介者番号"
+
+#: site-memory.php:149
+msgid ""
+"Your Evernote Affiliate Program referral code or API consumer key. You can "
+"leave this blank, or <a href=\"http://www.evernote.com/about/affiliate\" "
+"target=\"_blank\">become an affiliate</a>."
+msgstr ""
+"あなたのEvernoteアフリエイトプログラムの紹介者番号か、APIキー(cunsumer key)を指定します。"
+"何も設定しなくても構いません。また、<a href=\"http://www.evernote.com/about/affiliate\" "
+"target=\"_blank\">アフィリエイトを始める</a>こともできます"
+
+#: site-memory.php:179
+msgid "Site Memory"
+msgstr ""
+
+#: site-memory.php:184
+msgid "Layout settings"
+msgstr "レイアウト設定"
+
+#: site-memory.php:185
+msgid "Customize clipping settings"
+msgstr "クリップカスタマイズ設定"
