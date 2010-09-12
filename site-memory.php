@@ -1,6 +1,6 @@
 <?php
 /*
- Plugin Name: Site Memory for WordPress
+ Plugin Name: Evernote Site Memory for WordPress
  Plugin URI: http://wordpress.org/extend/plugins/site-memory-for-wordpress/
  Description: Evernote Site Memory for WordPress
  Version: 0.1
