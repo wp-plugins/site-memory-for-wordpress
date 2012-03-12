@@ -1,0 +1,71 @@
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# U-KW-XPSM1530\makoto_kw <makoto.kw@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-11 20:59+0900\n"
+"PO-Revision-Date: 2012-01-30 14:51+0200\n"
+"Language-Team: Web Geeks\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: Romania\n"
+
+#: site-memory.php:58
+msgid "Clip to Evernote"
+msgstr "Clipului la Evernote"
+
+#: site-memory.php:115
+msgid "Button image"
+msgstr "Imagine buton"
+
+#: site-memory.php:123
+msgid "Site name"
+msgstr "Numele site-ului"
+
+#: site-memory.php:125
+msgid "Name that will be displayed in the Site Memory window. If left blank, it will be your domain name."
+msgstr "Numele care va fi afişată în fereastra de memorie site-ului. În cazul în gol stânga, acesta va fi numele dvs. de domeniu."
+
+#: site-memory.php:131
+msgid "Suggested notebook for clips"
+msgstr "Sugestii pentru notebook clipuri"
+
+#: site-memory.php:133
+msgid "Suggest a destination notebook for your content. The notebook will be created if it does not exist."
+msgstr "Sugerează un notebook de destinaţie pentru conţinutul dvs. notebook-ul va fi creat în cazul în care nu exista.."
+
+#: site-memory.php:139
+msgid "Content to clip"
+msgstr "Conţinutul în miniatură"
+
+#: site-memory.php:141
+msgid "The ID of the HTML element that Site Memory should clip. If left blank, a simple link to the page will be clipped."
+msgstr "ID-ul elementului HTML care Site-ul de memorie ar trebui să clip. Dacă rămân necompletate, un simplu link către pagina vor fi tăiate."
+
+#: site-memory.php:147
+msgid "Evernote referral code"
+msgstr "Evernote sesizare cod"
+
+#: site-memory.php:149
+msgid "Your Evernote Affiliate Program referral code or API consumer key. You can leave this blank, or <a href=\"http://www.evernote.com/about/affiliate\" target=\"_blank\">become an affiliate</a>."
+msgstr "Programul de afiliere dvs. Evernote codul de recomandare sau de consum pentru API. Puteţi lăsa necompletat acest, sau <a href=\"http://www.evernote.com/about/affiliate\" target=\"_blank\">become an affiliate</a>."
+
+#: site-memory.php:179
+msgid "Site Memory"
+msgstr "Site Memory"
+
+#: site-memory.php:184
+msgid "Layout settings"
+msgstr "Layout setări"
+
+#: site-memory.php:185
+msgid "Customize clipping settings"
+msgstr "Particularizarea setărilor tăiere"
+

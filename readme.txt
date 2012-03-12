@@ -4,7 +4,7 @@ Donate link: http://www.makotokw.com/
 Tags: evernote, clip, japanese
 Requires at least: 2.7
 Tested up to: 3.0
-Stable tag: 0.1
+Stable tag: trunk
 
 Evernote Site Memory for WordPress
 
@@ -29,6 +29,10 @@ Added 'site_memory_the_note_it' function to display clip button.
 == Upgrade Notice ==
 
 == Changelog ==
+
+= 0.1.1 = 
+
+* Romanian transation thanks to [Web Geek Sciense](http://webhostinggeeks.com/).
 
 = 0.1 =
 

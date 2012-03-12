@@ -3,11 +3,11 @@
  Plugin Name: Evernote Site Memory for WordPress
  Plugin URI: http://wordpress.org/extend/plugins/site-memory-for-wordpress/
  Description: Evernote Site Memory for WordPress
- Version: 0.1
+ Version: 0.1.1
  Author: makoto_kw
  Author URI: http://www.makotokw.com/
  */
-/*  Copyright 2010 makoto_kw (email : makoto.kw+wordpress@gmail.com)
+/*  Copyright 2012 makoto_kw (email : makoto.kw+wordpress@gmail.com)
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation; either version 2 of the License, or
@@ -28,7 +28,7 @@ function site_memory_the_note_it() {
 }
 
 class Site_Memory {
-	const VERSION = '0.1';
+	const VERSION = '0.1.1';
 	const SCRIPT_URL = 'http://static.evernote.com/noteit.js';
 
 	var $slug;
